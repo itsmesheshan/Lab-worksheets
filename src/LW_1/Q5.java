@@ -14,7 +14,7 @@ public class Q5 {
 
         Circle circle1 = new Circle(radius1);
         Circle circle2 = new Circle(radius2);
-        System.out.println("area of the circular part is:"+(circle1.claArea()-circle2.claArea()14));
+        System.out.println("area of the circular part is:"+(circle1.claArea()-circle2.claArea()));
 
 
 
